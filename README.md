@@ -1,4 +1,4 @@
-# Generative Visual Prompt: Unifying Distributional Control of Pre-Trained Generative Models
+# [NeurIPS 2022] Generative Visual Prompt: Unifying Distributional Control of Pre-Trained Generative Models
 
 An implementation of **NeurIPS 2022** paper <br>
 **Generative Visual Prompt: Unifying Distributional Control of Pre-Trained Generative Models** <br>
